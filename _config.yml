@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 # url: "cooperativegames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # piazza_url: https://piazza.com/class/ksqkov16j8j6b4
 
-baseurl: /cooperativegames
-url: http://nima104.github.io
+baseurl: ''
+url: http://coopgames.github.io
 
 # Build settings
 markdown: kramdown
