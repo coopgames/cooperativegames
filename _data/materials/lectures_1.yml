@@ -2,9 +2,6 @@
   date: "1/31"
   week: 1
   title: Introduction, Syllabus, Hat Riddles
-  # reading:
-  #     - name: "hanabi challenge"
-  #     - url: "/assets/notes/1902.00506.pdf"
-  # resources:
-  #     - name: "slides"
-  #       url: "/assets/notes/hanabi-card-game-rules.pdf"
+  reading:
+      - name: "slides"
+      - url: "/assets/lec/lec01.pptx"
