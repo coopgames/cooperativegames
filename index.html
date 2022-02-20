@@ -82,9 +82,9 @@ title: Home
                                 <td class="table-td-sm">
                                     {% if material.title %}
                                         {{ material.title | markdownify }}
-                                        {% if material.webcast %}
+                                        {% if material.slides %}
                                             <span class="badge badge-light main-badge">
-                                                <a href="{{ material.webcast }}" target="_blank">webcast</a>
+                                                <a href="{{ material.slides }}" target="_blank">slides</a>
                                                 {% if material.mirror %}
                                                 | 
                                                 <a href="{{ material.mirror }}" target="_blank">youtube mirror</a>
