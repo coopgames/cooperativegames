@@ -36,8 +36,8 @@ Familiarity with Python (at a CS61A/CS88 level) is highly recommended. This is m
 ## Grading
 
 We will compute grades from a weighted average, as follows:
-- Projects: 25%
-    - We are planning on having two projects in the class. The first will be implementing some actions of Hanabi in code, and it will be worth 10% of your total grade, or 40% of your project grade. The second is an open ended, final cooperative game project, and it will be worth 15% of your total grade, or 60% of your project grade. Some ideas for this include creating a new cooperative game, formalizing the strategy for an existing game, etc. More details on both of the above will be sent later in the class.
+- Final Evaluation: 25%
+    - A *new* cooperative game will be presented, and students will be given the duration of class to come up with a strategy and then play the game. The score on their evaluation will be determined by how well they do.
 - Participation: 60%
     - As long as you come to class, listen, and play the games, you will get these points!
 - Hanabi Evaluation: 15%
